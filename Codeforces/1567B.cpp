@@ -10,11 +10,13 @@ int t, a, b;
 void solve(){
     int S = a, x, n = a - 1;
     
+    // Calculate xor of array [0...n]
     if (n % 4 == 0) x = n;
     if (n % 4 == 1) x = 1;
     if (n % 4 == 2) x = n + 1;
     if (n % 4 == 3) x = 0;
 
+    // Invalid cases
     if ((b ^ x) == a) S++;
     if (x != b) S++;
 
