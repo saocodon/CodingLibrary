@@ -2,7 +2,7 @@
 ## Codeforces
 | # | Problem | Solution | Tags | Submitted |
 | - | ------- | -------- | ---- | --------- |
-| 9 | [C - Book](https://codeforces.com/contest/1573/problem/C) | C++ 11 | `data structures` `dp` `graphs` `implementation` `*1800` | Mar/01/2022 |
+| 9 | [C - Book](https://codeforces.com/contest/1573/problem/C) | [C++ 11](https://github.com/duythecoder/CodingLibrary/blob/main/Codeforces/1573C/sol.cpp) | `data structures` `dp` `graphs` `implementation` `*1800` | [Mar/01/2022](https://codeforces.com/contest/1573/submission/148046315) |
 | 8 | [C - Kill the Monster](https://codeforces.com/contest/1633/problem/C) | [C++ 11](https://github.com/duythecoder/CodingLibrary/blob/main/Codeforces/Educational%20Codeforces%20Round%20122%20(Rated%20for%20Div.%202)/C.cpp) | `brute force` `math` `*1100` | [Feb/02/2022](https://codeforces.com/contest/1633/submission/144898864) | 
 | 7 | [B - Minority](https://codeforces.com/contest/1633/problem/B) | [C++ 11](https://github.com/duythecoder/CodingLibrary/blob/main/Codeforces/Educational%20Codeforces%20Round%20122%20(Rated%20for%20Div.%202)/B.cpp) | `greedy` `*800` | [Jan/31/2022](https://codeforces.com/contest/1633/submission/144726578) |
 | 6 | [A - Div. 7](https://codeforces.com/contest/1633/problem/A) | [C++ 11](https://github.com/duythecoder/CodingLibrary/blob/main/Codeforces/Educational%20Codeforces%20Round%20122%20(Rated%20for%20Div.%202)/A.cpp) | `brute force` `*800` | [Jan/31/2022](https://codeforces.com/contest/1633/submission/144717834) | 
@@ -15,4 +15,4 @@
 ### Stress test generators
 | # | Problem | Language | Note |
 | - | ------- | -------- | ---- |
-| 1 | [C - Book](https://codeforces.com/contest/1573/problem/C) | C++ 11 | Random graph (check if there are cycles?) |
+| 1 | [C - Book](https://codeforces.com/contest/1573/problem/C) | [C++ 11](https://github.com/duythecoder/CodingLibrary/blob/main/Codeforces/1573C/gen.cpp) | Random graph (check if there are cycles?) |
