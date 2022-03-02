@@ -15,4 +15,4 @@
 ### Stress test generators
 | # | Problem | Language | Note |
 | - | ------- | -------- | ---- |
-| 1 | [C - Book](https://codeforces.com/contest/1573/problem/C) | [C++ 11](https://github.com/duythecoder/CodingLibrary/blob/main/Codeforces/1573C/gen.cpp) | Random graph (check if there are cycles?) |
+| 1 | [C - Book](https://codeforces.com/contest/1573/problem/C) | [C++ 11](https://github.com/duythecoder/CodingLibrary/blob/main/Codeforces/1573C/gen.cpp) | `graphs` |
