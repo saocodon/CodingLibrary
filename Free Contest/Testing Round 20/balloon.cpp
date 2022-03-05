@@ -23,7 +23,7 @@ const int mxn = 2e5 + 1;
 
 int n, m, k;
 
-// When operating with each other, these arrays should be the same type
+// If a[] is int, i * a[j] overflows
 ll a[mxn], dp[2][mxn];
 
 void solve(){
