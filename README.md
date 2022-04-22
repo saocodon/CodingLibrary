@@ -2,6 +2,7 @@
 ## Codeforces
 | # | Problem | Solution | Tags | Submitted |
 | - | ------- | -------- | ---- | --------- |
+| 11 | [B - Special Numbers](https://codeforces.com/contest/1594/problem/B) | [C++ 11](https://github.com/duythecoder/CodingLibrary/blob/main/Codeforces/1594B.cpp) | `bitmasks` `math` `*1100` | [Apr/22/2022](https://codeforces.com/contest/1594/submission/154575183)
 | 10 | [C - Delete Two Elements](https://codeforces.com/contest/1598/problem/C) | [C++ 11](https://github.com/duythecoder/CodingLibrary/blob/main/Codeforces/1598C.cpp) | `data structures` `dp` `implementation` `math` `two pointers` `*1200` | [Mar/04/2022](https://codeforces.com/contest/1598/submission/148275933)
 | 9 | [C - Book](https://codeforces.com/contest/1573/problem/C) | [C++ 11](https://github.com/duythecoder/CodingLibrary/blob/main/Codeforces/1573C/sol.cpp) | `data structures` `dp` `graphs` `implementation` `*1800` | [Mar/01/2022](https://codeforces.com/contest/1573/submission/148046315) |
 | 8 | [C - Kill the Monster](https://codeforces.com/contest/1633/problem/C) | [C++ 11](https://github.com/duythecoder/CodingLibrary/blob/main/Codeforces/Educational%20Codeforces%20Round%20122%20(Rated%20for%20Div.%202)/C.cpp) | `brute force` `math` `*1100` | [Feb/02/2022](https://codeforces.com/contest/1633/submission/144898864) | 
