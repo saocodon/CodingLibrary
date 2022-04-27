@@ -1,3 +1,5 @@
+# Notes
+Please use GitHub in light mode due to some bugs :>
 # Problem list
 ## Codeforces
 | # | Problem | Solution | Tags | Submitted |
