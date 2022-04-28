@@ -38,7 +38,7 @@ void solve(){
                 }
             }
             cnt++;
-            // Get last element using *s.rbegin()
+            // Get largest element in set using *s.rbegin()
             if (*s.rbegin() == u) {
                 s.erase(u);
                 u = *s.begin();
