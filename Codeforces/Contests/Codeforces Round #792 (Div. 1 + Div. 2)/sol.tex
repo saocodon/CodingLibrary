@@ -1,0 +1,15 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+
+\begin{document}
+\title{Codeforces Round 792 (Div. 1 + Div. 2)}
+\maketitle
+\section{Problem B}
+Let's consider $x$, $y$, $z$ where $x<y<z$ because through each equation, $x$, $y$, $z$ keep getting smaller and smaller. This is an approach I find it easy, of course there are various solutions.
+\begin{itemize}
+    \item $z=c$ because $z<x$
+    \item $y\pmod{n}=b\rightarrow y\pmod{c}=b\rightarrow y=b+c$ because $b<c\rightarrow y$ is not divisible by $z$
+    \item $x\pmod{y}=a\rightarrow x=a+b+c$ because $b+c=y$ and $a<b<c$ so $x$ is not divisible by $y$
+\end{itemize}
+In conclusion, $x=a+b+c$; $y=b+c$; $z=c$.
+\end{document}
